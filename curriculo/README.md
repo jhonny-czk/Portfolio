@@ -15,6 +15,6 @@ Estou Cursando Ciência da Computação na UTP.
 ![GIT](./img/git.svg)
 ![AWS](./img/AWS.svg)
 
-![preview](./img/preview.png)
+<img src="./img/preview.png" width="534" height="435" />
 
 [Acesse para visualizar] (https://jhonny-czk.github.io/Portfolio/curriculo/)
