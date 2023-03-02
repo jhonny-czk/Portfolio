@@ -5,7 +5,6 @@ Estou Cursando Ciência da Computação na UTP.
 ![C](./img/c.svg)
 ![C++](./img/cpp.svg)
 ![Python](./img/python.svg)
-![Jupiter](./img/jupiter.svg)
 ![Java](./img/java.svg)  
 ![HTML](./img/html.svg)
 ![CSS](./img/css.svg) 
