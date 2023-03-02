@@ -1,8 +1,7 @@
 Olá! Meu nome é Jhonny Czeck!  
 Estou Cursando Ciência da Computação na UTP. 
 
-![preview](./img/preview.png)
-
+## 💻 Tecnologias
 ![C](./img/c.svg)
 ![C++](./img/cpp.svg)
 ![Python](./img/python.svg)
@@ -15,5 +14,7 @@ Estou Cursando Ciência da Computação na UTP.
 ![SQL](./img/mariadb.svg)
 ![GIT](./img/git.svg)
 ![AWS](./img/AWS.svg)
+
+![preview](./img/preview.png)
 
 [Acesse para visualizar] (https://jhonny-czk.github.io/Portfolio/curriculo/)
