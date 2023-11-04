@@ -65,10 +65,14 @@ label {
 ul{
     list-style: none;
 }
+
 ul li{
     color: #03a9f4;
     padding: 5px;
 }
+
+ul .s
+
 .li-location{
     color:white;
 }
@@ -104,7 +108,7 @@ h3 span{
     left: 0;
     width: 50%;
     height: 100%;
-    background: #03a9f4;
+    background: #03297c;
 }
 .git-link{
     color: black;
@@ -123,6 +127,13 @@ h3 span{
 }
 .about .box .company-year h5{
     text-transform: uppercase;
+    color: #848c90;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.about .box .company-year h6{
+    text-align: center;
     color: #848c90;
     font-weight: 600;
     font-size: 15px;
