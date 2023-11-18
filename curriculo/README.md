@@ -10,7 +10,7 @@ Estou Cursando Ciência da Computação na UTP.
 ![CSS](./img/css.svg) 
 ![Javascript](./img/javascript.svg)
 ![Vue](./img/vue.svg)  
-![Postgresql](.img/postgresql.svg) 
+![Postgresql](./img/postgresql.svg) 
 ![SQL](./img/mariadb.svg)
 ![GIT](./img/git.svg)
 ![AWS](./img/AWS.svg)
