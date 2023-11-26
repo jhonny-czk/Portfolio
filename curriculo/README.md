@@ -10,11 +10,10 @@ Estou Cursando Ciência da Computação na UTP.
 ![CSS](./img/css.svg) 
 ![Javascript](./img/javascript.svg)
 ![Vue](./img/vue.svg)  
-![Postgresql](./img/postg.svg) 
-![SQL](./img/mariadb.svg)
+![Postgresql](./img/postg.svg)
 ![GIT](./img/git.svg)
-![AWS](./img/AWS.svg)
 ![Linux](./img/linux.svg)
+![AWS](./img/AWS.svg)
 
 <img src="./img/preview.png" width="534" height="435" />
 
